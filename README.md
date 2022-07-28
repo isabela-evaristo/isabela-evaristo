@@ -1,6 +1,6 @@
 - 👋 Sup, I’m Isabela 
-- 👍 I like draw
-- 🍃 14years
-- 🙃 Still trying to find myself.
+- Meu email pra contato é isabela.freitas.silva@escola.pr.gov.br
+- Estou interessado em aprender a programar novas linguagens 
+- Estou aprendendo a programar recentemente a linguagem de JavaScript & Scratch
 
 
